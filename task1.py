@@ -1,0 +1,5 @@
+print("Welcome...")
+name=input("Enter Name: ")
+collegeName=input("Enter College Name: ")
+branch=input("Branch: ")
+print(f"{name} from {collegeName},{branch} branch")
