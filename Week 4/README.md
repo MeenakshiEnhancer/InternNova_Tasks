@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This repository contains my **Week 4 Data Science Assignment** focused on **Statistics, Data Visualization, and Exploratory Data Analysis (EDA)** using Python.
+This repository contains my **Week 4 Assignment** focused on **Statistics, Data Visualization, and Exploratory Data Analysis (EDA)** using Python.
 
 ## 📊 Tasks Covered
 
