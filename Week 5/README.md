@@ -51,4 +51,4 @@ The dashboard enables healthcare management to monitor key performance indicator
 
 ## 📷 Dashboard Preview
 
-![Healthcare Appointment & Patient Analytics Dashboard](Dashboard.png)
+<img width="520" height="314" alt="image" src="https://github.com/user-attachments/assets/1daf143a-dd29-4b11-b578-545261976f77" />
